@@ -1,0 +1,18 @@
+{
+  "name": "orionis-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Low-to-medium contrast theme.",
+  "keywords": [
+    "syntax",
+    "magenta",
+    "violet",
+    "blue",
+    "dark"
+  ],
+  "repository": "https://github.com/protesilaos/orionis-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
