@@ -4,13 +4,18 @@
 
 The theme comes in standalone light and dark variants (see further info below).
 
-## Screenshot
+## Screenshots
 
-![orionis dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/orionis/img/orionis_dark_sample.png)
+![orionis dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/orionis/img/orionis_dark_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![orionis dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/orionis/img/orionis_dark_scss.png)
+
+![orionis dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/orionis/img/orionis_dark_js.png)
+
+![orionis dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/orionis/img/orionis_dark_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
